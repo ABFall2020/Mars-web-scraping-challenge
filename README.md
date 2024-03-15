@@ -30,6 +30,6 @@ The project utilized Python along with Jupyter Notebook for coding and documenta
 6. Visualized results using bar charts and line plots.
 7. Exported the DataFrame to a CSV file.
 
-##Conclusion
+## Conclusion
 
 The project showcased the effective use of web scraping techniques to gather and analyze data from Mars-related websites. The insights gained provide valuable information on various aspects of Mars such as months, days, temperature, and atmospheric pressure.
